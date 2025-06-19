@@ -5,7 +5,7 @@
     <hr>
     <br>
 
-    <label for="eMail"><b>Email</b></label>
+    <label for="mail"><b>Email_Edited</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
