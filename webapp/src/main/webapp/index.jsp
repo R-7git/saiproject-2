@@ -5,7 +5,7 @@
     <hr>
     <br>
 
-    <label for="mail"><b>Email_Edited_Ansible!!!!!</b></label>
+    <label for="mail"><b>Email_Edited_Jen_Ansible_Docker!!!</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
