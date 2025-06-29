@@ -5,7 +5,7 @@
     <hr>
     <br>
 
-    <label for="mail"><b>Email_Complete_CI_CD_DNS...!!!</b></label>
+    <label for="mail"><b>Email_Complete_DNS...!!!</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
